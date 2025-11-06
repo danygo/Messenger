@@ -22,7 +22,8 @@ Open source Android Messenger App using Firebase supporting all modern chat app 
 
 ### 📸 Camera
 <p align="left">
-  <img src="screenshots/camera_video.png" alt="Chats" width="20%">
+  <img src="screenshots/camera_video.png" alt="Camera" width="20%">
+  <img src="screenshots/camera_preview.png" alt="Camera Preview" width="20%">
 </p>
 
 ### 💬⚙️ Chat Settings
